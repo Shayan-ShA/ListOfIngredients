@@ -2,7 +2,10 @@
 
 <h1> List of Ingredients Coding Challenge </h1>
 <h2> Overview </h2>
-This project displays the ingredients of a list of randomly picked menu items. 
+This project displays the ingredients of a list of randomly picked menu items.
+The ingredients are displayed in two format:
+1st: Just a list of unique ingredients ordered alphabetically required for thge list of picked menu items 
+2nd: In the form of key: values / menu item: ingredients 
 
 <h2> How to Run </h2>
 <ol>
